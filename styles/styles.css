@@ -8,7 +8,7 @@
 
 /* Body styles with overlay setup */
 body {
-    background-image: url('images/resumebackground.jpg') center center fixed;
+    background: url('images/resumebackground.jpg') center center fixed;
     background-size: cover;
 
 
